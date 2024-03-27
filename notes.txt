@@ -1,0 +1,77 @@
+NOAXE:
+axe hitboxes:
+BAIR		|| 3
+DSPECIAL_2 	|| 1
+DSTRONG		|| 2
+DSTRONG		|| 3
+DTILT		|| 2
+DTILT		|| 3
+FSPECIAL	|| X
+FTILT		|| 2
+FTILT		|| 3
+FTILT		|| 4
+FTILT		|| 5
+JAB		|| 4
+NAIR		|| 6
+NAIR		|| 7
+NAIR		|| 8
+NAIR		|| 9
+NAIR		|| 10
+NAIR		|| 11
+NAIR		|| 12
+NAIR		|| 13
+NAIR		|| 14
+NAIR		|| 15
+NSPECIAL	|| 1
+UAIR		|| 3
+USPECIAL	|| X
+UTILT		|| 6
+UTILT		|| 7
+UTILT		|| 8
+UTILT		|| 9
+UTILT		|| 10
+UTILT		|| 11
+
+
+
+
+
+
+
+sfx_ori_seinhit_heavy == axe heat effect
+
+
+
+The Banished Brute has escaped his prison
+Arsin, the Banished Brute, charges into the world of Aether. Once a great warrior of the Fire Capital, fighting anyone that stood in his way, he betrayed his kingdom and turned rogue.
+
+
+
+A Tricky Heavyweight
+Arsin is a tricky fighter, being a slow heavyweight with big disjoints and the ability to get yoinked across the stage thanks to his axe. Having betrayed the capital, he's left behind his arsenal of Fire-based attacks, only using the element to enhance his axe by heating it up for extra strong attacks and crunchier combos.
+
+Axe Tossing
+Arsin's main abilities revolve around the ability to toss his axe around. Neutral-Special, Up-Air and Down-Strong all toss the axe in various different directions. Arsin is connected to his axe through his Infernal Chain, restricting the range of his axe, as well as his own movement whenever the axe is pinned to the ground. Use this for recovery, to catch opponents off-guard and for edgeguarding.
+This also gives access to more non-axe moves that are faster and deal less knockback, great for comboing opponents at low percents.
+
+Use Neutral-Special or Forward-Special away from where the axe is pinned to the ground to recall the axe and extend combos.
+
+Heat
+Using Down-Special with axe in hand, Arsin will use his fire breath to apply Heat on the axe. Use this to make axe-attacks create a huge frame-advantage, working as great combo starters, or dealing more knockback, creating for great kill moves, as well dealing more damage.
+
+Axeplosion
+Down-Special with Heat applied whilst the axe is not in hand will activate the Axeplosion, a tool for catching opponents off-guard who don't pay attention to where they're walking, dealing huge knockback. The non-Heat version of this attack can still be used to start combos!
+
+Wallcling
+When swinging off the chain, or by hitting a wall using Up-Special, you can cling onto the wall for recovery. This, as well as pulling the chain to build an on-stage yoink, build the Tension meter, with the axe coming loose when it's full. Be careful not to fall down!
+
+
+Credits
+Spriting, Keyart & Programming:
+Florea Foxglove
+
+Concepting & Balance Support:
+Garlic (Dutch Smash Player)
+
+Additional Support:
+FeluciaVT
